@@ -1,0 +1,9 @@
+
+# Configuracoes locais do VS Code
+.vscode/
+
+# Arquivo de configuracao da MicroPico
+.micropico
+
+# Arquivos temporarios do Python
+__pycache__/
