@@ -11,4 +11,5 @@ while contador < 3:
     led_vermelho.value(1)
     sleep(2)
     led_vermelho.value(0)
+    sleep(2)
     contador+=1
